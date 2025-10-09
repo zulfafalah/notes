@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Menu Tukar Faktur.md",
+                "file": "Collection/Menu Tukar Faktur.md",
                 "mode": "source",
                 "source": false
               },
@@ -195,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd7607edbb690f56",
+  "active": "0055674ecbed7875",
   "lastOpenFiles": [
     "Belajar C/String - Null Terminator.md",
-    "Menu Tukar Faktur.md",
+    "Collection/Menu Tukar Faktur.md",
     "Collection",
     "Welcome.md",
     "Belajar C"
