@@ -25,3 +25,5 @@ printf("Nama: %s\n", nama);
 // Output bisa jadi: "Nama: John�������garbage�������"
 // Karena printf terus membaca memory sampai menemukan '\0'
 ```
+
+halo
