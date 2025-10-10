@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "2cee03f6b8584c40",
@@ -181,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0055674ecbed7875",
+  "active": "dd7607edbb690f56",
   "lastOpenFiles": [
     "Belajar C/String - Null Terminator.md",
     "Collection/Menu Tukar Faktur.md",
