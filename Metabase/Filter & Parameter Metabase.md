@@ -372,3 +372,4 @@ WHERE date_column >= COALESCE({{date_from}}, DATE_SUB(CURDATE(), INTERVAL 30 DAY
 **Terakhir diupdate:** 31 Oktober 2024  
 **Database:** MySQL (dengan catatan untuk PostgreSQL/Oracle)  
 **Platform:** Metabase
+t
