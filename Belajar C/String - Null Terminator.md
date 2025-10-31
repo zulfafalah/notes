@@ -26,4 +26,3 @@ printf("Nama: %s\n", nama);
 // Karena printf terus membaca memory sampai menemukan '\0'
 ```
 
-halo
