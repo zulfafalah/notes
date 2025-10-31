@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teknik Mencegah Double Booking.md",
+                "file": "Database/Teknik Mencegah Double Booking.md",
                 "mode": "source",
                 "source": false
               },
@@ -195,10 +195,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "beea1f0775da10c2",
+  "active": "0055674ecbed7875",
   "lastOpenFiles": [
+    "Metabase",
     "Collection/Menu Tukar Faktur.md",
-    "Teknik Mencegah Double Booking.md",
+    "Database/Teknik Mencegah Double Booking.md",
     "Database",
     "Untitled 1.png",
     "Belajar C/String - Null Terminator.md",
