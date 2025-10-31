@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metabase/Filter & Parameter Metabase.md",
+                "file": "Collection/Menu Tukar Faktur.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Filter & Parameter Metabase"
+              "title": "Menu Tukar Faktur"
             }
           }
         ],
@@ -209,11 +209,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0055674ecbed7875",
+  "active": "8ec7bf92331718ab",
   "lastOpenFiles": [
+    "README.md",
+    "Metabase/Filter & Parameter Metabase.md",
     "conflict-files-obsidian-git.md",
     "Database/Teknik Mencegah Double Booking.md",
-    "Metabase/Filter & Parameter Metabase.md",
     "Metabase",
     "Collection/Menu Tukar Faktur.md",
     "Database",
