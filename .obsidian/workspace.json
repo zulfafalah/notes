@@ -13,30 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Belajar C/String - Null Terminator.md",
+                "file": "Collection/Menu Tukar Faktur.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "String - Null Terminator"
+              "title": "Menu Tukar Faktur"
             }
           },
           {
-            "id": "1b0960bd195c77c3",
+            "id": "beea1f0775da10c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Database/Teknik Mencegah Double Booking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Teknik Mencegah Double Booking"
+            }
+          },
+          {
+            "id": "8ec7bf92331718ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metabase/Filter & Parameter Metabase.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Filter & Parameter Metabase"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "2cee03f6b8584c40",
@@ -181,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,14 +211,16 @@
   },
   "active": "0055674ecbed7875",
   "lastOpenFiles": [
-    "Collection/Menu Tukar Faktur.md",
-    "Collection",
     "conflict-files-obsidian-git.md",
-    "Belajar C/String - Null Terminator.md",
+    "Database/Teknik Mencegah Double Booking.md",
     "Metabase/Filter & Parameter Metabase.md",
     "Metabase",
-    "Database/Teknik Mencegah Double Booking.md",
+    "Collection/Menu Tukar Faktur.md",
     "Database",
+    "Untitled 1.png",
+    "Belajar C/String - Null Terminator.md",
+    "Untitled.png",
+    "Collection",
     "Welcome.md",
     "Belajar C"
   ]
