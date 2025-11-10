@@ -75,3 +75,4 @@ Bayangkan **5 orang dalam rapat (node)**.
 
 > “**Raft menjaga satu pemimpin, mayoritas sepakat, dan log semua sama.**”
 
+> Ref: https://raft.github.io/
