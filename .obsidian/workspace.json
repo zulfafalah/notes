@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAFT Consensus Protocol.md",
+                "file": "Distributed Systems/RAFT Consensus Protocol.md",
                 "mode": "source",
                 "source": false
               },
@@ -195,11 +195,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2eb47d017f3b6dfe",
+  "active": "0055674ecbed7875",
   "lastOpenFiles": [
     "Sad Server/Write UP Easy Category.md",
-    "RAFT Consensus Protocol.md",
-    "Sistributed Systems",
+    "Distributed Systems/RAFT Consensus Protocol.md",
+    "Distributed Systems",
     "Sad Server",
     "Collection/Menu Tukar Faktur.md",
     "Database/Teknik Mencegah Double Booking.md",

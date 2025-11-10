@@ -1,5 +1,5 @@
-Menjamin **semua node dalam sistem terdistribusi sepakat pada satu keadaan data yang sama**,  
-walaupun ada node yang gagal, delay, atau terputus jaringan.
+Menjamin **semua node dalam sistem terdistribusi sepakat pada satu keadaan data yang sama**,  walaupun ada node yang gagal, delay, atau terputus jaringan.
+Tujuan dari Rarft ada mencapai **Single Source of Truth”**  yaitu **satu kebenaran tunggal dari data** di seluruh cluster.
 
 ### **Tiga Komponen Utama**
 
