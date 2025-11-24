@@ -3,7 +3,7 @@ Untuk meregister menu di keycloack ada beberapa hal yang perlu di buat
 
 ## 1. Membuat Scope
 Cara membuat Scope
-1. Pergi ke client (test-pricate-client)
+1. Pergi ke client (test-private-client)
 2. Pergi ke Authorization -> Scope, kemudian klik **Create Authorization Scope**
 ![[Pasted image 20251119112743.png]]
 
