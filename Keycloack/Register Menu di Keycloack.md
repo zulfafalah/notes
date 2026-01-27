@@ -5,10 +5,10 @@ Untuk meregister menu di keycloack ada beberapa hal yang perlu di buat
 Cara membuat Scope
 1. Pergi ke client (test-private-client)
 2. Pergi ke Authorization -> Scope, kemudian klik **Create Authorization Scope**
-![[Pasted image 20251119112743.png]]
+![[Asset/Pasted image 20251119112743.png]]
 
 3. Isi form nya untuk membuat scope
-![[Pasted image 20251119113108.png]]
+![[Asset/Pasted image 20251119113108.png]]
 4. Done
 
 
@@ -16,17 +16,17 @@ Cara membuat Scope
 Cara membuat Resource
 1. Membuat resource di client (test-pricate-client)
 
-![[Pasted image 20251119111603.png]]
+![[Asset/Pasted image 20251119111603.png]]
 
 2. Kemudian pergi tab Authorization -> Resource
-![[Pasted image 20251119112049.png]]
+![[Asset/Pasted image 20251119112049.png]]
 
 3. isi form nya untuk create resource
-![[Pasted image 20251119112237.png]]
+![[Asset/Pasted image 20251119112237.png]]
 
-![[Pasted image 20251119112454.png]]
+![[Asset/Pasted image 20251119112454.png]]
 4. Isi Authorization Scopes yang di buat tadi 
-![[Pasted image 20251119114324.png]]
+![[Asset/Pasted image 20251119114324.png]]
 5. Done
 
 ## 3. Membuat Roles
