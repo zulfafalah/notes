@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3b678fb34bbc770b",
+        "id": "6ff1ac4eeb1bb9d3",
         "type": "tabs",
         "children": [
           {
-            "id": "79fe41a2b2f121b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Keycloack/Register Menu di Keycloack.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Register Menu di Keycloack"
-            }
-          },
-          {
-            "id": "41f215ea835df566",
+            "id": "273762854772a73c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "Config Kubernetes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,9 +180,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0055674ecbed7875",
+  "active": "273762854772a73c",
   "lastOpenFiles": [
+    "LLM/Model Transformer.md",
+    "Untitled.base",
     "Keycloack/Register Menu di Keycloack.md",
+    "Untitled",
+    "LLM",
     "Dev Ops/Config Kubernetes.md",
     "Dev Ops/Konfigurasi Subdomain di Cloudflare + NGINX.md",
     "Dev Ops/Deploy Laravel ke Cpanel.md",
@@ -205,7 +194,6 @@
     "Asset/Pasted image 20251119120451.png",
     "Asset/Pasted image 20251119115428.png",
     "Deployment/Deploy Laravel ke Cpanel.md",
-    "Untitled.base",
     "Dev Ops",
     "Asset/Pasted image 20251119122129.png",
     "Asset/Pasted image 20251119121849.png",
@@ -228,11 +216,9 @@
     "Belajar C/String - Null Terminator.md",
     "Database/Clausa Having.md",
     "Android/Product Flavor.md",
-    "Android",
     "README.md",
     "Metabase/Filter & Parameter Metabase.md",
     "conflict-files-obsidian-git.md",
-    "Metabase",
     "Welcome.md"
   ]
 }
