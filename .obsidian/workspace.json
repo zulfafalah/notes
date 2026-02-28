@@ -20,8 +20,35 @@
               "icon": "lucide-file",
               "title": "Konfigurasi Subdomain di Cloudflare + NGINX"
             }
+          },
+          {
+            "id": "28b1d79a5ae9f944",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
+          },
+          {
+            "id": "bd6d991747c85161",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Dev Ops/Konfigurasi Subdomain di Cloudflare + NGINX.md",
+                "bFile": "Dev Ops/Konfigurasi Subdomain di Cloudflare + NGINX.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Konfigurasi Subdomain di Cloudflare + NGINX"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,10 +207,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "accf53c9b13722ca",
+  "active": "bd6d991747c85161",
   "lastOpenFiles": [
-    "Dev Ops/Deploy Laravel ke Cpanel.md",
     "Dev Ops/Konfigurasi Subdomain di Cloudflare + NGINX.md",
+    "Dev Ops/Deploy Laravel ke Cpanel.md",
     "Keycloack/Register Menu di Keycloack.md",
     "Untitled.base",
     "Untitled.canvas",

@@ -35,10 +35,10 @@ Buat file /etc/nginx/sites-available/app1.abc.my.id
 ```
 server {
     listen 80;
-    server_name app1.abc.my.id;
+    server_name palpal-flower.zulfafalah.my.id;
     
     location / {
-        proxy_pass http://localhost:8000;
+        proxy_pass http://localhost:5556;
         proxy_http_version 1.1;
         proxy_set_header Upgrade $http_upgrade;
         proxy_set_header Connection 'upgrade';
@@ -113,7 +113,7 @@ server {
 
 ## Enable Site
 ```bash
-sudo ln -s /etc/nginx/sites-available/app1.abc.my.id /etc/nginx/sites-enabled/
+ 
 sudo ln -s /etc/nginx/sites-available/app2.abc.my.id /etc/nginx/sites-enabled/
 sudo ln -s /etc/nginx/sites-available/superapp.abc.my.id /etc/nginx/sites-enabled/
 ```
