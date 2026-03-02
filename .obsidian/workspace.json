@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev Ops/Konfigurasi Load Balance Nginx.md",
+                "file": "Database/Index dan Proses Write di Database.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Konfigurasi Load Balance Nginx"
+              "title": "Index dan Proses Write di Database"
             }
           },
           {
@@ -249,8 +249,9 @@
   },
   "active": "79f4eaf23b62f0a2",
   "lastOpenFiles": [
-    "Dev Ops/Konfigurasi Reverse Proxy NGINX.md",
     "Dev Ops/Konfigurasi Load Balance Nginx.md",
+    "Database/Index dan Proses Write di Database.md",
+    "Dev Ops/Konfigurasi Reverse Proxy NGINX.md",
     "Dev Ops/Config Kubernetes.md",
     "conflict-files-obsidian-git.md",
     "LLM/Model Transformer.md",
