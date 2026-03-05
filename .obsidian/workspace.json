@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "baf0ae3f51bd239d",
+        "id": "6ff1ac4eeb1bb9d3",
         "type": "tabs",
         "children": [
           {
-            "id": "4bb9d0eceeed9cd9",
+            "id": "273762854772a73c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "LLM/Model Transformer.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "icon": "lucide-file",
+              "title": "Model Transformer"
             }
           }
         ]
@@ -178,47 +181,49 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0055674ecbed7875",
+  "active": "273762854772a73c",
   "lastOpenFiles": [
-    "Collection/Menu Tukar Faktur.md",
-    "README.md",
-    "Untitled.base",
-    "Dev Ops/Config Kubernetes.md",
-    "DSA/Sorting.md",
-    "Database/Index dan Proses Write di Database.md",
-    "Dev Ops/Konfigurasi Load Balance Nginx.md",
-    "Dev Ops/Konfigurasi Reverse Proxy NGINX.md",
-    "conflict-files-obsidian-git.md",
+    "LLM/State Space Model (SSM).md",
     "LLM/Model Transformer.md",
-    "LLM",
-    "Dev Ops/Deploy Laravel ke Cpanel.md",
+    "Database/Teknik Mencegah Double Booking.md",
+    "Belajar C/String - Null Terminator.md",
     "Keycloack/Register Menu di Keycloack.md",
-    "Untitled.canvas",
+    "Dev Ops/Config Kubernetes.md",
+    "Dev Ops/Konfigurasi Reverse Proxy NGINX.md",
+    "Dev Ops/Konfigurasi Load Balance Nginx.md",
+    "Database/Index dan Proses Write di Database.md",
+    "Untitled.base",
+    "Untitled",
+    "LLM",
+    "Dev Ops/Konfigurasi Subdomain di Cloudflare + NGINX.md",
+    "Dev Ops/Deploy Laravel ke Cpanel.md",
     "Distributed Systems/RAFT Consensus Protocol.md",
-    "Asset/Pasted image 20251119122129.png",
-    "Asset/Pasted image 20251119112049.png",
-    "Asset/Pasted image 20251119111603.png",
-    "Asset/Pasted image 20251119112211.png",
-    "Asset",
+    "Asset/Pasted image 20251119120451.png",
+    "Asset/Pasted image 20251119115428.png",
+    "Deployment/Deploy Laravel ke Cpanel.md",
     "Dev Ops",
-    "Sad Server/Write UP Easy Category.md",
+    "Asset/Pasted image 20251119122129.png",
     "Asset/Pasted image 20251119121849.png",
     "Asset/Pasted image 20251119121035.png",
     "Asset/Pasted image 20251119120905.png",
     "Asset/Pasted image 20251119120739.png",
-    "Asset/Pasted image 20251119120451.png",
     "Asset/Pasted image 20251119120348.png",
+    "Asset/Pasted image 20251119120221.png",
+    "Asset/Pasted image 20251119115627.png",
+    "Asset",
+    "Deployment",
+    "Sad Server/Write UP Easy Category.md",
     "Keycloack",
+    "DSA/Sorting.md",
     "DSA",
+    "Collection/Menu Tukar Faktur.md",
     "Distributed Systems",
     "Sad Server",
-    "Database/Teknik Mencegah Double Booking.md",
-    "Belajar C/String - Null Terminator.md",
     "Database/Clausa Having.md",
     "Android/Product Flavor.md",
-    "Android",
+    "README.md",
     "Metabase/Filter & Parameter Metabase.md",
-    "Metabase",
+    "conflict-files-obsidian-git.md",
     "Welcome.md"
   ]
 }
