@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Dev Ops/Linux Namespace & Cgroup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Linux Namespace & Cgroup"
             }
           }
         ]
@@ -182,11 +182,12 @@
   },
   "active": "76f6d9d8ba1ec34a",
   "lastOpenFiles": [
+    "README.md",
+    "Dev Ops/Linux Namespace & Cgroup.md",
     "LLM/Transformer Model.md",
     "LLM/State Space Model (SSM).md",
     "Sad Server/Write UP Easy Category.md",
     "Collection/Menu Tukar Faktur.md",
-    "README.md",
     "Untitled.base",
     "Dev Ops/Config Kubernetes.md",
     "DSA/Sorting.md",
