@@ -1,13 +1,6 @@
 # Notes
 Repositori ini berisi kumpulan catatan dari proses eksplorasi dan penjelajahan di internet yang ditulis menggunakan Obsidian.
 
-## Struktur Folder
-
-- **Belajar C/** - Catatan pembelajaran bahasa pemrograman C
-- **Collection/** - Kumpulan catatan umum
-- **Database/** - Catatan terkait database dan teknik-teknik database
-- **Metabase/** - Catatan tentang Metabase, tools visualisasi dan analitik data
-
 ## Cara Membuka di Obsidian
 
 1. Install [Obsidian](https://obsidian.md/) jika belum terinstall
