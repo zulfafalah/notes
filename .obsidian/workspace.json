@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "BIRT Report Print Log via REST API"
             }
+          },
+          {
+            "id": "881f2869a28a631c",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,11 +195,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e3c7380c0de944a",
+  "active": "0055674ecbed7875",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Reporting Tool/BIRT Report Print Log via REST API.md",
+    "Dev Ops/Linux Namespace & Cgroup.md",
     "Asset/Pasted image 20260312092511.png",
     "LLM/Transformer Model.md",
-    "Reporting Tool/BIRT Report Print Log via REST API.md",
     "Reporting Tool/Birt",
     "Reporting Tool",
     "LLM/State Space Model (SSM).md",
@@ -211,7 +228,6 @@
     "Asset/Pasted image 20251119120739.png",
     "Asset/Pasted image 20251119120348.png",
     "Asset/Pasted image 20251119120221.png",
-    "Asset/Pasted image 20251119115627.png",
     "Asset",
     "Deployment",
     "Sad Server/Write UP Easy Category.md",
@@ -224,7 +240,6 @@
     "Android/Product Flavor.md",
     "README.md",
     "Metabase/Filter & Parameter Metabase.md",
-    "conflict-files-obsidian-git.md",
     "Welcome.md"
   ]
 }
