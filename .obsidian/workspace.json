@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reporting Tool/BIRT Report Print Log via REST API.md",
+                "file": "Dev Ops/AWS Dasar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BIRT Report Print Log via REST API"
-            }
-          },
-          {
-            "id": "881f2869a28a631c",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "title": "AWS Dasar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,10 +180,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0055674ecbed7875",
+  "active": "6e3c7380c0de944a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Dev Ops/Config Kubernetes.md",
+    "Dev Ops/AWS Dasar.md",
+    "Dev Ops/Konfigurasi Load Balance Nginx.md",
     "Reporting Tool/BIRT Report Print Log via REST API.md",
+    "conflict-files-obsidian-git.md",
     "Dev Ops/Linux Namespace & Cgroup.md",
     "Asset/Pasted image 20260312092511.png",
     "LLM/Transformer Model.md",
@@ -208,9 +196,7 @@
     "Database/Teknik Mencegah Double Booking.md",
     "Belajar C/String - Null Terminator.md",
     "Keycloack/Register Menu di Keycloack.md",
-    "Dev Ops/Config Kubernetes.md",
     "Dev Ops/Konfigurasi Reverse Proxy NGINX.md",
-    "Dev Ops/Konfigurasi Load Balance Nginx.md",
     "Database/Index dan Proses Write di Database.md",
     "Untitled.base",
     "LLM",
