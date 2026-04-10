@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev Ops/AWS Dasar.md",
-                "mode": "source",
+                "file": "Dev Ops/AWS Services.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AWS Dasar"
+              "title": "AWS Services"
             }
           }
         ]
@@ -183,7 +183,7 @@
   "active": "6e3c7380c0de944a",
   "lastOpenFiles": [
     "Dev Ops/Config Kubernetes.md",
-    "Dev Ops/AWS Dasar.md",
+    "Dev Ops/AWS Services.md",
     "Dev Ops/Konfigurasi Load Balance Nginx.md",
     "Reporting Tool/BIRT Report Print Log via REST API.md",
     "conflict-files-obsidian-git.md",
