@@ -27,3 +27,8 @@ nano ~/.config/opencode/opencode.json
   }
 }
 ```
+
+3. Refresh models
+```
+opencode models --refresh
+```
