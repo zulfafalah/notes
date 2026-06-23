@@ -65,23 +65,31 @@ Alur yang harus diimplementasi:
 
 ## Flow lengkap
 
-service-noo
-    │
-    │ 1. POST /workflow/transition
-    │    { doc_type, doc_id, action, actor_id, notes }
-    ▼
-service-workflow
-    │ 2. validate role & state
-    │
-    │ 3. atomic block:
-    │    ├── update WorkflowState (current_state)
-    │    └── insert WorkflowHistory 
-    │
-    │ 4. POST webhook ke service-noo
-    │    { doc_id, new_state, doc_type }
-    ▼
-service-noo
-    │ 5. update PO status di DB-nya sendiri
+```
+| service-noo                                          |
+|------------------------------------------------------|
+| 1. POST /workflow/transition                         |
+|    { doc_type, doc_id, action, actor_id, notes }    |
+
+                        |
+                        ▼
+
+| service-workflow                                     |
+|------------------------------------------------------|
+| 2. validate role & state                             |
+| 3. atomic block:                                     |
+|    ├── update WorkflowState (current_state)          |
+|    └── insert WorkflowHistory                        |
+| 4. POST webhook ke service-noo                       |
+|    { doc_id, new_state, doc_type }                   |
+
+                        |
+                        ▼
+
+| service-noo                                          |
+|------------------------------------------------------|
+| 5. update PO status di DB-nya sendiri                |
+```
 
 
 
